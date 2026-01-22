@@ -1,3 +1,6 @@
 .git
 .vscode
 *.log
+node_modules
+vendor
+.DS_Store
